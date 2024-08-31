@@ -23,11 +23,11 @@
     overflow: hidden;
 }
 .slider ul{
-    transition: 0,5s;
+    transition: 0.5s;
     display: flex;
     width: 200%;
     overflow-x: hidden;
-    transform: translateX(-25%);
+    /* transform: translateX(-50%); */
 }
 .slider ul li{
     list-style: none;
