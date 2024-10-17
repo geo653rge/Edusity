@@ -24,3 +24,15 @@ nav ul li{
     background:#212EA0 ;
     transition: .5s;
 }
+
+/*  ----- media querry ---- */
+
+@media (max-width:1200px) {
+    .container{
+        padding-left: 5%;
+        padding-right:5%;
+    }
+    /* .btn{
+        
+    } */
+}
